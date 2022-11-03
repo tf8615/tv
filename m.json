@@ -1,11 +1,9 @@
-//大聪明友情提醒：本接口中的网络资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为方便小白使用，如有冒犯请联系删除
-//盗用接口进行引流而不注明出处的，xxxxxxx，你就自己想吧
-//关注公众号【应用多多】回复“接口”，获取最新接口
+//友情提醒：本接口中的网络资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为方便小白使用，如有冒犯请联系删除
 {
     "sites": [
 	 {
 	    "key":"T4_douban",
-	    "name":"🍀公众号：应用多多，更新时间：2022/10/31",
+	    "name":"🍀更新时间：2022/10/31",
 	    "type":4,
 	    "api":"http://top.fuqizhishi.com/vod",
 	    "searchable":1,
@@ -38,7 +36,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/Nmys.json"
+            "ext": "https://i.550.ink/tv/json/Nmys.json"
         },
         {
 	   "key":"csp_xBPQ_电影先生",
@@ -48,7 +46,7 @@
 	   "searchable": 1,
 	   "quickSearch": 0,
 	   "filterable": 0,
-	   "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/filmMr.json"
+	   "ext": "https://i.550.ink/tv/json/filmMr.json"
         },    
         {
             "key": "APPTT",
@@ -76,7 +74,7 @@
 	   "searchable":1,
 	   "quickSearch":1,
 	   "filterable":1,
-	   "ext":"https://raw.iqiq.io/leevi0709/duo/main/json/789ba.json"
+	   "ext":"https://i.550.ink/tv/json/789ba.json"
 	},
 	{
            "key": "py_cctv",
