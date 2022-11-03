@@ -1442,7 +1442,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvbGVldmkwNzA5L2R1by9tYWluL3R4dC9sLnR4dA=="
+            "proxy://do=live&type=txt&ext=aHR0cHMlM0EvL2kuNTUwLmluay90di90eHQvbC50eHQ="
           ]
         }
       ]
