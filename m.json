@@ -1115,7 +1115,8 @@
       "ext": "http://www.cccvvv.top/api.php/iptv/vod/"
     },
     {
-      "name": "🐶影视",
+      "key": "多多资源",
+      "name": "🐶多多资源",
       "type": 1,
       "api": "https://www.ddzyz1.com/api.php/provide/vod/",
       "searchable": 1,
@@ -1186,15 +1187,6 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "http://app.wnvod.net/lvdou_api.php/v1.vod"
-    },
-    {
-      "key": "资源",
-      "name": "🍊资源",
-      "type": 1,
-      "api": "https://www.ddzyz1.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
     },
     {
       "key": "资源2",
