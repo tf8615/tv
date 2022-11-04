@@ -66,7 +66,7 @@
     },
     {
       "key": "csp_Nmys",
-      "name": "🍚农民影视",
+      "name": "👨‍🌾农民影视",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
@@ -76,7 +76,7 @@
     },
     {
       "key": "csp_xBPQ_电影先生",
-      "name": "🤵电影先生",
+      "name": "🍚电影先生",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 1,
@@ -95,7 +95,7 @@
     },
     {
       "key": "Kuaikan",
-      "name": "🦋快看影视",
+      "name": "🍒快看影视",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
