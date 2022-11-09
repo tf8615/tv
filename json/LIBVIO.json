@@ -7,14 +7,14 @@
   "shouye": "1",
   
   //"fenlei": "最近更新$/show/19--------#电影$/show/1--------#电视剧$/show/2--------#综艺$/show/3--------#动漫$/show/4--------#动画片$/show/1---动画-----#纪录片$/show/21--------#国产剧$/show/13--------#日韩剧$/show/15--------#欧美剧$/show/16--------#港台剧$/show/14--------#泰国剧$/show/2-泰国-------#喜剧片$/show/1---喜剧-----#爱情片$/show/1---爱情-----#恐怖片$/show/1---恐怖-----#动作片$/show/1---动作-----#科幻片$/show/1---科幻-----#剧情片$/show/1---剧情-----#战争片$/show/1---战争-----#警匪片$/show/1---警匪-----#犯罪片$/show/1---犯罪-----#奇幻片$/show/1---奇幻-----#武侠片$/show/1---武侠-----#冒险片$/show/1---冒险-----",
-  "fenlei": "电影$/type/1#剧集$/type/2#综艺$/type/3#动漫$/type/4#日韩剧/type/15#欧美剧$/type/16#",
+  "fenlei": "电影$/type/1#剧集$/type/2#综艺$/type/3#动漫$/type/4#日韩剧/type/15#欧美剧$/type/16",
   "houzhui": ".html",
 
   "shifouercijiequ": "0",
   "jiequqian": "空",
   "jiequhou": "空",
   "jiequshuzuqian": "lazyload\"",
-  "jiequshuzuhou": "title=\",
+  "jiequshuzuhou": "class=\"play hidden-xs\"",
   "tupianqian": "data-original=\"",
   "tupianhou": "\"",
   "biaotiqian": "title=\"",
