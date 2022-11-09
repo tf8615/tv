@@ -14,7 +14,7 @@
   "jiequqian": "空",
   "jiequhou": "空",
   "jiequshuzuqian": "lazyload\"",
-  "jiequshuzuhou": "class=\"pic-tag",
+  "jiequshuzuhou": "title=\",
   "tupianqian": "data-original=\"",
   "tupianhou": "\"",
   "biaotiqian": "title=\"",
@@ -27,7 +27,7 @@
   "fubiaotihou": "</span",
 
   "sousuoqian": "/search/-------------.html?wd=",
-  "sousuohou": "&submit=",
+  "sousuohou": "&limit=500",
   "sousuohouzhui": "/detail/",
   "ssmoshi": "0",
   "sousuoshifouercijiequ": "0",
