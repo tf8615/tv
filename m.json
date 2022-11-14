@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "T4_douban",
-      "name": "🍀更新时间：2022/11/9",
+      "name": "🍀更新时间：2022/11/14",
       "type": 4,
       "api": "http://top.fuqizhishi.com/vod",
       "searchable": 1,
@@ -1493,47 +1493,12 @@
       "url": "Sequence"
     },
     {
-      "name": "①线",
-      "type": 1,
-      "url": "http://newjiexi.gotka.top/keyu3.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "iqiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-    {
-      "name": "②线",
-      "type": 1,
-      "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
-    },
-    {
-      "name": "③线",
+      "name": "线路1",
       "type": 1,
       "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
     },
     {
-      "name": "④线",
+      "name": "线路2",
       "type": 0,
       "url": "https://jx.bozrc.com:4433/player/?url=",
       "ext": {
@@ -1560,61 +1525,27 @@
       }
     },
     {
-      "name": "⑤线",
+      "name": "线路3",
       "type": 0,
-      "url": "https://okjx.cc/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "iqiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
+      "url": "https://jx.iztyy.com/svip/?url="
     },
     {
-      "name": "⑥线",
+      "name": "线路4",
       "type": 0,
-      "url": "https://chaxun.truechat365.com/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "iqiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
+      "url": "https://svip.bljiex.cc/?v="
     },
     {
-      "name": "⑦线",
+      "name": "线路5",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "线路6",
+      "type": 0,
+      "url": "https://go.yh0523.cn/y.cy?url="
+    },
+    {
+      "name": "线路7",
       "type": 0,
       "url": "https://jx.zui.cm/?url=",
       "ext": {
@@ -1641,7 +1572,7 @@
       }
     },
     {
-      "name": "⑧线",
+      "name": "线路8",
       "type": 0,
       "url": "http://jx.m3u8.tv/jiexi/?url=",
       "ext": {
@@ -1668,9 +1599,39 @@
       }
     },
     {
-      "name": "⑨线",
+      "name": "线路9",
       "type": 1,
       "url": "http://api.ckflv.cn/?url="
+    },
+    {
+      "name": "线路10",
+      "type": 0,
+      "url": "https://www.ckplayer.vip/jiexi/?url="
+    },
+    {
+      "name": "线路11",
+      "type": 0,
+      "url": "https://www.nxflv.com/?url="
+    },
+    {
+      "name": "线路12",
+      "type": 0,
+      "url": "http://www.ckmov.vip/api.php?url="
+    },
+    {
+      "name": "线路13",
+      "type": 0,
+      "url": "https://parse.mw0.cc/?url="
+    },
+    {
+      "name": "线路14",
+      "type": 0,
+      "url": "http://api.wpsseo.cn/?v="
+    },
+    {
+      "name": "线路15",
+      "type": 0,
+      "url": "https://www.pangujiexi.cc/jiexi.php?url="
     }
   ],
   "flags": [
