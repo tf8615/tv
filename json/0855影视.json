@@ -7,14 +7,14 @@
   "User": "User-Agentart/2.14 (dart:io)",
   "shouye": "1",
 
-  "fenlei": "电影$/vod/show/id/vod/page/#剧集$/vod/show/id/tv/page/#理论课$/vod/show/id/tp/page/#动漫$/vod/show/id/dongman/page/#综艺$/vod/show/id/zongyi/page/",
+  "fenlei": "电影$/vod/show/id/vod/page/#剧集$/vod/show/id/tv/page/#理论$/vod/show/id/tp/page/#动漫$/vod/show/id/dongman/page/#综艺$/vod/show/id/zongyi/page/",
   "houzhui": ".html",
 
   "shifouercijiequ": "0",
   "jiequqian": "空",
   "jiequhou": "空",
   "jiequshuzuqian": "class=\"hl-list-item",
-  "jiequshuzuhou": "</div>",
+  "jiequshuzuhou": "class=\"hl-item-sub",
   "tupianqian": "data-original=\"",
   "tupianhou": "\"",
   "biaotiqian": "title=\"",
