@@ -10,6 +10,16 @@
       "filterable": 1
     },
     {
+      "key": "csp_biubiu_906u",
+      "name": "🐢906u追剧网（ALL）",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://i.550.ink/tv/json/906u.json"
+    },
+    {
       "key": "906u",
       "name": "🍈906U追剧网",
       "type": 0,
