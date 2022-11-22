@@ -1,16 +1,7 @@
 {
   "sites": [
     {
-      "key": "T4_douban",
-      "name": "🍀豆瓣推荐|更新时间：2022/11/16",
-      "type": 4,
-      "api": "http://top.fuqizhishi.com/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_biubiu_906u",
+      "key": "csp_xp_906u",
       "name": "🍈906u追剧网",
       "type": 3,
       "api": "csp_XPathFilter",
