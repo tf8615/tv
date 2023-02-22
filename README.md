@@ -14,7 +14,7 @@ https://550.ink/tv/m.json 国内访问
 
 数据源显示打开 回首页可以看到每个网址标题 点首页切换资源
 
-# TVBoxOSC
+# TVBoxOSC最新版本
 
 [![Download](https://img.shields.io/github/v/release/o0HalfLife0o/TVBoxOSC?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/o0HalfLife0o/TVBoxOSC/releases/latest) 
 [![Total](https://shields.io/github/downloads/o0HalfLife0o/TVBoxOSC/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/o0HalfLife0o/TVBoxOSC/releases)
