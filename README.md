@@ -4,7 +4,7 @@
 
 一、复制网址到浏览器 下载这个APP安装
 
-[![https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20230208-0730/TVBox_takagen99_20230208-0730.apk]](https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20230208-0730/TVBox_takagen99_20230208-0730.apk)
+[https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20230208-0730/TVBox_takagen99_20230208-0730.apk](https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20230208-0730/TVBox_takagen99_20230208-0730.apk)
 
 二、打开APP点 设置齿轮 复制以下网址 粘贴到配置地址里 返回首页即可
 
