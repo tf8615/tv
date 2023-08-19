@@ -1,14 +1,14 @@
 {
   "sites": [
     {
-      "key": "csp_xp_906u",
-      "name": "🍈906u追剧网",
+      "key": "csp_xp_906o",
+      "name": "🍈906追剧网",
       "type": 3,
       "api": "csp_XPathFilter",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://i.550.ink/tv/json/906u.json"
+      "ext": "https://i.550.ink/tv/json/906o.json"
     },
     {
       "key": "csp_Kunyu77",
