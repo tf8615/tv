@@ -72,21 +72,16 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
 金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
-哈哈炫动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
 辽宁卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
 黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
 吉林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8
 广西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8
 江西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225764/index.m3u8
 江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
-优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
 深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
 大湾区卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
-北京卡酷,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
-冬奥纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
-嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 云南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8
 贵州卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8
 宁夏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225748/index.m3u8
@@ -99,7 +94,7 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 延边卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
 内蒙古卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8
 康巴卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8
-电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+
 风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
 风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
@@ -109,7 +104,6 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-央视文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 哒啵电竞,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226951/index.m3u8
 哒啵赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226954/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
@@ -156,9 +150,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 置业频道,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
 京视剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226242/index.m3u8
 家庭理财,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226244/index.m3u8
-奕坦春秋,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226245/index.m3u8
-发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
-老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
+
 
 卫视频道,#genre#
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
@@ -183,8 +175,6 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 天津卫视,http://live.aishang.ctlcdn.com/00000110240136_1/playlist.m3u8?CONTENTID=00000110240136_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 浙江卫视,http://live.aishang.ctlcdn.com/00000110240134_1/playlist.m3u8?CONTENTID=00000110240134_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 重庆卫视,http://live.aishang.ctlcdn.com/00000110240397_1/playlist.m3u8?CONTENTID=00000110240397_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-4K,http://live.aishang.ctlcdn.com/00000110240282_1/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-4K,http://live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
 
 北京卫视,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1588200355_-2136083744/ws_w/bjws/bjws3000/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073738&ContentId=265668911&timezone=UTC&mtv_session=923b33c07808007ff4b7b8554ab56cb9&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b3b910e2f08747b18ff03b13155e96cb
@@ -557,12 +547,9 @@ CHC-动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 CHC-家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC-高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-CGTN-记录,https://livedoc.cgtn.com/500d/prog_index.m3u8
+
 CGTN-英语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/index.m3u8
-CGTN-俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
-CGTN-法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
-CGTN-西语,https://livees.cgtn.com/1000e/prog_index.m3u8
-CGTN-阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
+
 CCTV-风云剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
 CCTV-风云音乐,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 CCTV-第一剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
@@ -1020,15 +1007,6 @@ IPV6-地方频道,#genre#
 .哈哈炫动,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8
 .游戏风云,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8
 
-.浙江公共新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
-.浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-.浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-.浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-.浙江数码时代,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-.浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-.浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-.浙江钱江频道,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-
 .海南少儿,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?fmmv6
 .海南文旅,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?fmmv6
 .海南公共,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?fmmv6
@@ -1038,9 +1016,7 @@ IPV6-地方频道,#genre#
 .金鹰卡通,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001098/index.m3u8
 .茶友频道,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8
 .快乐垂钓,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
-
 .嘉佳卡通,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001227/index.m3u8
-
 .咪咕,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225904/index.m3u8
 .家庭理财,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001278/index.m3u8
 .财富天下,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001219/index.m3u8
@@ -1065,13 +1041,9 @@ IPV6-地方频道,#genre#
 .乐游频道,http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226335/index.m3u8
 .纪实人文,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw1293235676_155310184/ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8?icpid=3&RTS=1669704189&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 .游戏风云,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-.NHK世界,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-.CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-.半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-.金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-.金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 
-地方,#genre#
+
+地方频道,#genre#
 义乌新闻综合,https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
@@ -1430,42 +1402,29 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 
-
 辽宁频道,#genre#
 辽宁都市,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000068
 辽宁都市,http://218.25.44.2:8899/hls/47/index.m3u8
 辽宁都市,http://42.176.185.28:9901/tsfile/live/1005_1.m3u8
 辽宁都市,https://epg.pw/stream/73eaa5df24adc149e02951bcddb9402dff2bb3cb79f7ceb48ce7a73769666083.m3u8
-
-
 辽宁生活,http://42.176.185.28:9901/tsfile/live/1006_1.m3u8
 辽宁生活,http://218.25.44.2:8899/hls/52/index.m3u8
 辽宁生活,https://epg.pw/stream/33c01d9a467d4a3747c01ea9c4c8e6ef863521214c7d4729500db4499ff92119.m3u8
-
 辽宁经济,http://42.176.185.28:9901/tsfile/live/1009_1.m3u8
 辽宁经济,http://218.25.44.2:8899/hls/39/index.m3u8
-
-
 辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
 辽宁体育,http://218.25.44.2:8899/hls/53/index.m3u8
 辽宁体育,https://epg.pw/stream/ed8d6b967bd33bf66eaa29459a8ec20337120f27cdab5deff7d0a208d88067dc.m3u8
-
-
 辽宁公共,http://42.176.185.28:9901/tsfile/live/1010_1.m3u8
 辽宁公共,http://218.25.44.2:8899/hls/40/index.m3u8
-
-
 辽宁北方,http://42.176.185.28:9901/tsfile/live/1011_1.m3u8
 辽宁北方,http://218.25.44.2:8899/hls/54/index.m3u8
-
-
 辽宁影视剧,http://42.176.185.28:9901/tsfile/live/1012_1.m3u8
 辽宁影视剧,https://epg.pw/stream/c0db813415930823bd2846e6942c2dc0be792b7ea5d75da39b4fae0165bb0036.m3u8
 辽宁影视剧,https://epg.pw/stream/37a04e4ce498bb60e6095f319aa6e1ce76a3bbc81c723fa81db4845fac680efa.m3u8
 辽宁影视剧,https://epg.pw/stream/3cb2dce87e3a4ee9d2e4d840dbbf73b05def50ada2a414ae55b1c307ea03358d.m3u8
 
 
- 
 北京频道,#genre#
 北京文艺,https://qist.cc/live/edu.php?id=bjwyhd&u=lzjtu
 北京影视,https://qist.cc/live/edu.php?id=bjyshd&u=lzjtu
@@ -1475,7 +1434,6 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 北京生活,https://qist.cc/live/edu.php?id=bjsh&u=lzjtu
 北京新闻,https://qist.cc/live/edu.php?id=bjxwhd&u=lzjtu
 
-
 北京文艺,https://qist.cc/live/edu.php?id=bjwyhd
 北京影视,https://qist.cc/live/edu.php?id=bjyshd
 北京财财经,https://qist.cc/live/edu.php?id=bjcj
@@ -1483,7 +1441,6 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 北京体育休闲,https://qist.cc/live/edu.php?id=bjtyxxhd
 北京生活,https://qist.cc/live/edu.php?id=bjsh
 北京新闻,https://qist.cc/live/edu.php?id=bjxwhd
-
 
 北京文艺,https://qist.cc/live/luas.php?id=bjwyhd 
 北京影视,https://qist.cc/live/luas.php?id=bjyshd 
@@ -1494,74 +1451,11 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 北京新闻,https://qist.cc/live/luas.php?id=bjxwhd 
 
 
-重庆频道,#genre#
-重庆新闻 ,https://qist.cc/live/cqyx.php?id=cqxw 
-重庆科教 ,https://qist.cc/live/cqyx.php?id=cqkj 
-重庆影视 ,https://qist.cc/live/cqyx.php?id=cqys 
-重庆文体娱乐 ,https://qist.cc/live/cqyx.php?id=cqwtyl 
-重庆少儿 ,https://qist.cc/live/cqyx.php?id=cqse 
-重庆时尚生活 ,https://qist.cc/live/cqyx.php?id=cqsssh 
-重庆新农村 ,https://qist.cc/live/cqyx.php?id=cqxnc 
-重庆社会与法 ,https://qist.cc/live/cqyx.php?id=cqshyf 
-重庆移动 ,https://qist.cc/live/cqyx.php?id=cqyd 
-重庆汽摩 ,https://qist.cc/live/cqyx.php?id=cqqm 
-重广融媒 ,https://qist.cc/live/cqyx.php?id=cgrm 
-爱看导视 ,https://qist.cc/live/cqyx.php?id=akds 
-合川综合 ,https://qist.cc/live/cqyx.php?id=hczh 
-长寿综合 ,https://qist.cc/live/cqyx.php?id=cszh 
-酉阳综合 ,https://qist.cc/live/cqyx.php?id=yyzh 
-云阳综合 ,https://qist.cc/live/cqyx.php?id=yunyzh 
-铜梁综合 ,https://qist.cc/live/cqyx.php?id=tlzh 
-
-重庆新闻 ,https://qist.cc/live/cqn.php?id=cqxw 
-重庆科教 ,https://qist.cc/live/cqn.php?id=cqkj 
-重庆影视 ,https://qist.cc/live/cqn.php?id=cqys 
-重庆文体娱乐 ,https://qist.cc/live/cqn.php?id=cqwtyl 
-重庆少儿 ,https://qist.cc/live/cqn.php?id=cqse 
-重庆时尚生活 ,https://qist.cc/live/cqn.php?id=cqsssh 
-重庆新农村 ,https://qist.cc/live/cqn.php?id=cqxnc 
-重庆社会与法 ,https://qist.cc/live/cqn.php?id=cqshyf 
-重庆移动 ,https://qist.cc/live/cqn.php?id=cqyd 
-重庆汽摩 ,https://qist.cc/live/cqn.php?id=cqqm 
-重广融媒 ,https://qist.cc/live/cqn.php?id=cgrm 
-爱看导视 ,https://qist.cc/live/cqn.php?id=akds 
-合川综合 ,https://qist.cc/live/cqn.php?id=hczh 
-长寿综合 ,https://qist.cc/live/cqn.php?id=cszh 
-酉阳综合 ,https://qist.cc/live/cqn.php?id=yyzh 
-云阳综合 ,https://qist.cc/live/cqn.php?id=yunyzh 
-铜梁综合 ,https://qist.cc/live/cqn.php?id=tlzh 
-
-
-四川频道,#genre#
-四川文化旅游,https://qist.cc/live/sc.php?id=scly
-四川经济,https://qist.cc/live/sc.php?id=scjj
-四川乡村,https://qist.cc/live/sc.php?id=scnc
-四川峨眉电影,https://qist.cc/live/sc.php?id=emdy
-四川影视文艺,https://qist.cc/live/sc.php?id=scys
-四川科教,https://qist.cc/live/sc.php?id=scjk
-四川儿童,https://qist.cc/live/sc.php?id=scet
-四川新闻,https://qist.cc/live/sc.php?id=scxw
-康巴卫视,https://qist.cc/live/sc.php?id=kbws
-达州综合,https://qist.cc/live/sc.php?id=dzzh
-达州文化生活,https://qist.cc/live/sc.php?id=dzgg
-熊猫生活,https://qist.cc/live/sc.php?id=xmsh
-熊猫影院,https://qist.cc/live/sc.php?id=xmyy
-熊猫少儿,https://qist.cc/live/sc.php?id=xmse
-大爱四川,https://qist.cc/live/sc.php?id=dasc
-大爱旅游,https://qist.cc/live/sc.php?id=daly
-大爱生活,https://qist.cc/live/sc.php?id=dash
-大爱时尚,https://qist.cc/live/sc.php?id=dass
-麻辣体育,https://qist.cc/live/sc.php?id=mlty
-红色经典,https://qist.cc/live/sc.php?id=hsjd
-综艺咖秀,https://qist.cc/live/sc.php?id=zykx
-热血剧场,https://qist.cc/live/sc.php?id=rxjc
-都市剧场,https://qist.cc/live/sc.php?id=dsjc
-
-
 卡通频道,#genre#
 动画番剧,https://qist.cc/live/sc.php?id=dhfj
 金鹰卡通,https://qist.cc/live/gzyd.php?id=jykt
 金鹰卡通,https://qist.cc/live/cqn.php?id=jykt
+北京卡酷,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
 北京卡酷,https://qist.cc/live/gzyd.php?id=kkse
 北京卡酷,https://qist.cc/live/cqyx.php?id=bjkk 
 北京卡酷,https://qist.cc/live/cqn.php?id=bjkk
@@ -1570,8 +1464,10 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 北京卡酷,https://qist.cc/live/luas.php?id=bjkk 
 哈哈炫动,https://qist.cc/live/gzyd.php?id=hhxd
 熊猫卡通,https://qist.cc/live/sc.php?id=xmkt
-广东嘉佳卡通,https://qist.cc/live/gzyd.php?id=jkt
-江苏优漫卡通,https://qist.cc/live/gzyd.php?id=ymkt
+嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
+嘉佳卡通,https://qist.cc/live/gzyd.php?id=jkt
+优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
+优漫卡通,https://qist.cc/live/gzyd.php?id=ymkt
 
 
 iHOT影视,#genre#
