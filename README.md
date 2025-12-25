@@ -9,10 +9,10 @@
 二、打开APP点 设置齿轮 复制以下网址 粘贴到配置地址里 返回首页即可
 
  国外访问
-[https://i.550.ink/tv/m.json](https://i.550.ink/tv/m.json)
+[https://i.55600.top/tv/m.json](https://i.55600.top/tv/m.json)
 
 国内访问
-[https://550.ink/tv/m.json](https://550.ink/tv/m.json)
+[https://55600.top/tv/m.json](https://55600.top/tv/m.json)
 
 数据源显示打开 回首页可以看到每个网址标题 点首页切换资源
 
